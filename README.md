@@ -25,10 +25,15 @@
 
 ## 🛠 Инструменты и технологии
 
-- Postman  
-- SQL  
-- API (базовые знания)  
-- Архитектура систем (базовое понимание)
+![Postman](https://img.shields.io/badge/Postman-API-orange)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![REST API](https://img.shields.io/badge/API-REST-green)
+![JSON](https://img.shields.io/badge/JSON-Data-black)
+![XML](https://img.shields.io/badge/XML-Data-lightgrey)
+![UML](https://img.shields.io/badge/UML-Modeling-blueviolet)
+![BPMN](https://img.shields.io/badge/BPMN-Business%20Process-yellow)
+![Agile](https://img.shields.io/badge/Agile-Methodology-purple)
+![Figma](https://img.shields.io/badge/Figma-UI%20Design-purple)
 
 ---
 
